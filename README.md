@@ -21,19 +21,4 @@ The model's strong performance is driven by the delayed effect of weather:
 
 --> Rainfall 7 Days Ago: Recent rain helps sustain existing breeding grounds.
 
-⚙️ Repository Structure
-Malaria_Hotspot_Predictor/
-├── cases.csv                                                 # Input CSV file of cases(cleaned)
-├── features.csv                                              # Input CSV file of features related to malaria cases(cleaned)
-├── Pakistan_malaria_prediction _project-checkpoint.ipynb     # Main training/prediction scripts
-└── README.md                                                 
-
-
-🏃 Getting Started
---> Clone the Repository: git clone [[Your Repo URL](https://github.com/Abhinavvimal77/Malaria-disease-hotspot-prediction)]
-
---> Install Dependencies: pip install -r requirements.txt
-
---> Run: Execute the primary script (e.g., python src/train_model.py) to reproduce the model and generate the forecast report.
-
 
